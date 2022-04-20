@@ -6,9 +6,7 @@
 # I come from China
 
 
-# You are the 
-[](http://www.hit-counts.com/counter.php?t=MTQ0NTc4OA==)
-master who surpasses this man
+# You are the ![](http://www.hit-counts.com/counter.php?t=MTQ0NTc4OA==)master who surpasses this man
 
 
 
