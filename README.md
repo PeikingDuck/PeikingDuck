@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PeikingDuck
+- 👋 Hi, I’m @PeikingDuck nice to meet you
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Cpp 
 - 📫 How to reach me 3363744647@qq.com
@@ -12,7 +12,7 @@
 ![](https://s1.ax1x.com/2018/04/04/C9AddU.gif)
 
 
-# ! [Personal homepage](https://www.luogu.com.cn/user/453463)
+# [Personal homepage](https://www.luogu.com.cn/user/453463)
 
 <!---
 PeikingDuck/PeikingDuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
